@@ -18,14 +18,14 @@ To begin using the mailing lists, please subscribe. Subscribing allows you to po
 
 Before you send a message, check to see if the topic has been raised in the past. To do this, use Google to search the archives. 
 
-Refer to the Contribute Page for more infomation about Mailing Lists.
+Refer to the Contribute Page for more information about Mailing Lists.
 
 Internet Relay Chat
 ~~~~~~~~~~~~~~~~~~~~
 
 IRC allows you to communicate in real-time with many others who are also using IRC and are on common networks and channels. For more information about IRC clients, see the Chat Clients section on the Sofware Page. You can also use your browser to chat. To do so, go to the `Webchat <http://webchat.freenode.net/>`_ page. 
 
-Refer to the Contribute Page for more infomation about IRC Channels.
+Refer to the Contribute Page for more information about IRC Channels.
 
 Forums
 ~~~~~~~
